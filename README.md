@@ -1,17 +1,20 @@
 <div align="center">
-<h2> Hi, welcome!</h2>
+<h2> Olá, bem vindo!</h2>
 </div>
 
-- 🔭 I’m currently working on Angular, JavaScript, C#, HTML, SCSS, CSS, TypeScript
-- 🌱 I’m currently learning C/C++, C#, JavaScript, HTML, CSS, Java, .NET, Node;
+- 🔭 Atualmente trabalhando com Angular, JavaScript, C#, HTML, SCSS, CSS, TypeScript
+- 🌱 Atualmente estudando C/C++, C#, JavaScript, HTML, CSS, Java, .NET, Node;
 
 🤓 Estudando projetos e desenvolvendo ideias.
-
-<div align="center">
-  <a href="https://github.com/Danielajdsilva">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Danielajdsilva&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielajdsilva&layout=compact&langs_count=7&theme=merko"/>
+  
+  <div align="center">
+  <a href="https://github.com/danielajosedasilva">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
+  
+  
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="daniela-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
