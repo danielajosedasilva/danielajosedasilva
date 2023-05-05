@@ -11,7 +11,7 @@
       - 🌱 Atualmente estudando C/C++, C#, JavaScript, HTML, CSS, Java, .NET, Node;<br>
 
     🤓 Estudando projetos e desenvolvendo ideias.
-    </p>
+    </p> 
   </div>
   
   <div align="center">
