@@ -9,17 +9,16 @@
     Sou Desenvolvedora Front End e gosto muito de compartilhar meu conhecimento e aprendizado<br>
       - 🔭 Atualmente trabalhando com Angular, JavaScript, C#, HTML, SCSS, CSS, TypeScript<br>
       - 🌱 Atualmente estudando C/C++, C#, JavaScript, HTML, CSS, Java, .NET, Node;<br>
-
-    🤓 Estudando projetos e desenvolvendo ideias.
+        🤓 Estudando projetos e desenvolvendo ideias.
     </p> 
   </div>
   
-  <div align="center">
+  <!--<div align="center">
   <a href="https://github.com/danielajosedasilva">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danielajosedasilva&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
-</div>
+</div>-->
   <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
